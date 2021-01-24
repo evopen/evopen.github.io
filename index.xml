@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>let there be light</title>
+    <link>https://whoisdhh.com/</link>
+    <description>Recent content on let there be light</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 24 Jan 2021 16:46:28 +0800</lastBuildDate><atom:link href="https://whoisdhh.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021</title>
+      <link>https://whoisdhh.com/posts/2021/</link>
+      <pubDate>Sun, 24 Jan 2021 16:46:28 +0800</pubDate>
+      
+      <guid>https://whoisdhh.com/posts/2021/</guid>
+      <description>placeholder占位符
+#include &amp;lt;iostream&amp;gt;int main() { return 0; } use std::path::Path; fn main () { println!(&amp;#34;fuck&amp;#34;); } </description>
+    </item>
+    
+  </channel>
+</rss>
